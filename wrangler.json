@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "eea7f93c-28cf-44d4-ae0e-b57b9887c49c",
+      "database_name": "raichudatabase9182"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
